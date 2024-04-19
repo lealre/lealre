@@ -8,9 +8,15 @@ My portfolio with all my public projects is pinned below. Feel free to reach out
 
 #
 
+<p>
+  <a href="https://github.com/lealre/plant_watering">
+
+  </a>
+</p> 
+
 <div align="">
   <a href="https://github.com/lealre">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lealre&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="145em" alt="Lealre's github stats" src="https://github-readme-stats.vercel.app/api?username=lealre&show_icons=true&hide_border=false&theme=dracula" />
   </a>
 </div>
 <!--
