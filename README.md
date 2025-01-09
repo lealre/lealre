@@ -1,6 +1,6 @@
 ### Hello! I'm Renan 👋
 
-I'm just a curious guy who likes data, coding and learning. 🤙
+I am just a curious guy who likes software development, mainly using Python. 🤙
 
 My portfolio with all my public projects is pinned below. Feel free to reach out if you have any suggestions or questions.
 
