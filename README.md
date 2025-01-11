@@ -1,6 +1,6 @@
 ### Hello! I'm Renan 👋
 
-I am just a curious guy who likes software development, mainly using Python. 🤙
+I am an engineer enthusiastic about software development, mainly using Python.
 
 My portfolio with all my public projects is pinned below. Feel free to reach out if you have any suggestions or questions.
 
